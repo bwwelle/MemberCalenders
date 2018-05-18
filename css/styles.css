@@ -1,0 +1,16 @@
+/* CSS Document */
+td.requiredfields {
+
+	color: red;
+}
+
+td.whitetext {
+
+	color: white;
+	font-weight: bold;
+}
+
+a.whitetext {
+	color: white;
+	font-weight: bold;
+}
